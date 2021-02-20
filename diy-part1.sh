@@ -19,3 +19,4 @@ git clone https://github.com/kenzok8/openwrt-packages package/kenzok8
 git clone https://github.com/kenzok8/small package/small
 git clone https://github.com/nondanee/UnblockNeteaseMusic package/nondanee
 git clone https://github.com/jerrykuku/luci-theme-argon package/jerrykuku
+git clone https://github.com/sirpdboy/sirpdboy-package package/sirpdboy
